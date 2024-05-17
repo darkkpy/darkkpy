@@ -25,7 +25,10 @@ Welcome to my GitHub profile! I'm passionate about programming. Here's a bit abo
 
 ## 🏆 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darkkpy&show_icons=true&theme=radical)
+![darkkpy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkkpy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![darkkpy's Stats](https://github-readme-stats.vercel.app/api?username=darkkpy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![darkkpy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkkpy&theme=vue-dark&hide_border=false)
+
 
 ## 📫 Contact Me
 
