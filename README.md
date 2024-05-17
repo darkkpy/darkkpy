@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about programming. Here's a bit abo
 
 ## 🏆 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkPython69&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darkkpy&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
