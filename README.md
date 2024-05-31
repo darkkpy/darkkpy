@@ -34,4 +34,4 @@ Welcome to my GitHub profile! I'm passionate about programming. Here's a bit abo
 - Email: darkness0777@proton.me
 - Discord: darkk.py
 
-Thanks for visiting my profile! Have a great day! 😄
+Thanks for visiting my profile.
