@@ -1,19 +1,17 @@
-# Hi there, I'm Dark 👋
+#I'm Dark/Aster 👋
 
-Welcome to my GitHub profile! I'm passionate about programming. Here's a bit about me:
-
+Welcome to my GitHub, where I basically code (for followers of course), heres something about me so i look "professional"
 ## 🚀 About Me
 
-- 🔭 I’m currently working on making myself better.
-- 🌱 I’m currently learning C.
-- 💬 Ask me about my project.
-- 📫 How to reach me: My discord is darkk.py, email is darkness0777@proton.me, feel free to reach
+- 🔭 Trying to get a little better every day… or not. No pressure.
+- 🌱 Learning whatever feels cool at the moment.
+- 💬 Ask me stuff, or don’t. I’m chill either way.
+- 📫 Hit me up if you feel like it: Discord’s contradeus, and email’s darkness0777@proton.me.
 
 ## 🛠️ Languages and Tools
 
 - **Languages**:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 - **Tools**:
   ![Pydroid 3](https://img.shields.io/badge/Pydroid%203-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -32,6 +30,6 @@ Welcome to my GitHub profile! I'm passionate about programming. Here's a bit abo
 ## 📫 Contact Me
 
 - Email: darkness0777@proton.me
-- Discord: darkk.py
+- Discord: contradeus
 
-Thanks for visiting my profile.
+Thanks for visiting, i guess.
