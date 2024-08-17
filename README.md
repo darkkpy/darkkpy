@@ -1,4 +1,4 @@
-#I'm Dark/Aster 👋
+# I'm Dark/Aster 👋
 
 Welcome to my GitHub, where I basically code (for followers of course), heres something about me so i look "professional"
 ## 🚀 About Me
