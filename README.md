@@ -6,7 +6,7 @@ Welcome to my GitHub, where I basically code (for followers of course), heres so
 - 🔭 Trying to get a little better every day… or not. No pressure.
 - 🌱 Learning whatever feels cool at the moment.
 - 💬 Ask me stuff, or don’t. I’m chill either way.
-- 📫 Hit me up if you feel like it: Discord’s contradeus, and email’s darkness0777@proton.me.
+- 📫 Message me if you want to, email is darkness0777@proton.me
 
 ## 🛠️ Languages and Tools
 
@@ -30,6 +30,6 @@ Welcome to my GitHub, where I basically code (for followers of course), heres so
 ## 📫 Contact Me
 
 - Email: darkness0777@proton.me
-- Discord: contradeus
+- Discord: oblivion.dark
 
 Thanks for visiting, i guess.
